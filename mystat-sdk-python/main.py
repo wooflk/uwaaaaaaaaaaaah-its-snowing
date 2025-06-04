@@ -1,6 +1,5 @@
 from interface import *
 
-Mystat = MyStatApp("login", "password")
+Mystat = MyStatApp("zulmu_aa95", "zulmu_aa95")
 
-Mystat.auto()
 Mystat.marks()
